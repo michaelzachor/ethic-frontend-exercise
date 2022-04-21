@@ -1,0 +1,17 @@
+[
+    {"name":"Angie",      "phone":"862-847-9392",  "image":"Angie.jpg"},
+    {"name":"Beatrice",   "phone":"917-832-4720",  "image":"Beatrice.jpg"},
+    {"name":"Candice",    "phone":"862-485-3750",  "image":"Candice.jpg"},
+    {"name":"Carl",       "phone":"804-374-2719",  "image":"Carl.jpg"},
+    {"name":"Dave",       "phone":"862-124-0412",  "image":"Dave.jpg"},
+    {"name":"Eugene",     "phone":"862-193-4852",  "image":"Eugene.jpg"},
+    {"name":"Francis",    "phone":"862-563-8282",  "image":"Francis.jpg"},
+    {"name":"Lancelot",   "phone":"862-910-3456",  "image":"Lancelot.jpg"},
+    {"name":"Romeo",      "phone":"726-665-2928",  "image":"Romeo.jpg"},
+    {"name":"Tobias",     "phone":"917-485-1938",  "image":"Tobias.jpg"},
+    {"name":"Toby",       "phone":"293-294-2947",  "image":"Toby.jpg"},
+    {"name":"Tony",       "phone":"862-345-6789",  "image":"Tony.jpg"},
+    {"name":"Uncle Mike", "phone":"212-395-4957",  "image":"Uncle Mike.jpg"},
+    {"name":"Zelda",      "phone":"234-987-6547",  "image":"Zelda.jpg"},
+    {"name":"Ziggy",      "phone":"234-765-2323",  "image":"Ziggy.jpg"}
+]

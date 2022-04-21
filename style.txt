@@ -1,0 +1,65 @@
+dialpad vw-100
+    con header mx-0 px-0
+        row header-title tx-cen d-flex al-it-end mx-0 px-0
+            col header-title-text mx-0 px-0
+                h1
+        row header-select d-flex al-it-cen
+            col tx-end
+                div
+            col tx-cen
+                div
+            col tx-sta
+                div
+    con input mx-0 px-0
+        row input-row tx-cen d-flex al-it-cen
+            col
+    con keypad m-0 tx-cen
+        row keypad-row
+            col
+                div
+                div
+            col
+                div
+                div
+            col
+        row keypad-row
+            col
+            col
+            col
+        row keypad-row
+            col
+            col
+            col
+        row keypad-row
+            col
+                img
+            col d-flex al-it-cen ju-co-cen
+                div
+            col
+                img
+contacts vw-100
+    con contact-list mx-0 px-0
+        row contacts-row d-flex al-it-cen
+            col
+                img
+            col
+                div
+            col
+                div
+        row contacts-row
+            col
+            col
+            col
+        row contacts-row
+            col
+            col
+            col
+        row contacts-row
+            col
+            col
+            col
+        row contacts-row
+            col
+            col
+            col
+        ...
