@@ -62,6 +62,10 @@ const addContact = (contact) => {
   contactRow.appendChild(contactName);
   contactRow.appendChild(contactNumber);
 
+  contactRow.addEventListener('click', () => {
+    inputBox.value = number.innerHTML;
+  })
+
   contactList.appendChild(contactRow);
 }
 
