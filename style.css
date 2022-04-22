@@ -15,25 +15,25 @@ body {
 .header { height: 35%; }
 .header-title { height: 60%; }
 .header-select { height: 40%; }
-.header-select-switch { font-size: 2rem;}
+.switch-label { 
+    font-size: 1.25rem;
+    margin-left: -10px;
+    margin-right: -10px;
+}
 
 .input {
     height: 15%;
     backdrop-filter: brightness(90%);
 }
-.input-row { height: 100%; }
 input[type="text"] {
     background: none;
     border: none;
     color: white;
     font-size: 2rem;
+    margin-left: 24px;
 }
-input:focus {
-    outline: none;
-}
+.input-box:focus { outline: none; }
 
-.keypad { height: 50%; }
-.keypad-row { height: 25%; }
 .keypad-num { font-size: 2rem;}
 .keypad-symbol {
     height: 1.5rem;
@@ -48,22 +48,12 @@ input:focus {
     overflow-x: hidden;
     overflow-y: auto;
 }
-.contacts-row {
-    height: 8vh;
-}
-.contact-img-col { height: 100%;}
+.contacts-row { height: 8vh; }
 .contact-img {
     height: 70%;
     width: auto;
     display: block;
     margin: 15% auto;
-    /* display: block;
-    margin: auto; */
-    /* display: block;
-    margin: auto;
-    height: 50%;
-    width: auto;
-    border: 1px solid black; */
 }
 .contact-name { font-size: 1.5rem; }
 .contact-phone { font-size: 1.25rem; color: grey; }
